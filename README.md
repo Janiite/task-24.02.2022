@@ -1,3 +1,3 @@
 # task-24.02.2022
 
-Open in web https://pensive-clarke-2fd561.netlify.app/
+Open in web https://tender-stonebraker-758533.netlify.app/
